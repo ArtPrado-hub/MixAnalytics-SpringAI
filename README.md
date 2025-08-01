@@ -9,8 +9,17 @@ A estrutura do projeto consiste em um CRUD **(create,read,update e delete)** par
 
 Pontos chaves desse projeto:
 - entender como funciona API's síncronas e assíncronas.
-- criação de um crud para fundamentar os conceitos de API rest
+- Servir como base para estudos e provas de conceito de IA aplicada no ecossistema Spring.
+- Operar com Spring Reactive Web (WebFlux + WebClient) para garantir chamadas assíncronas e não bloqueantes.
+- criação de um CRUD para fundamentar os conceitos de API rest
 - leitura de documentação para entendimento do ecossistema implementado.
 	>Spring reactive web. (usado anteriormente também para fazermos as requisições via webClient)
 	>Spring AI. (que tem suporte tanto para requisições síncronas tanto para assíncronas)
-- como funciona beans de configuração.
+
+🛠 Tecnologias Utilizadas
+
+    Spring Boot
+    Spring WebFlux
+    Spring AI
+    Java 17+
+    Banco de dados em memória
