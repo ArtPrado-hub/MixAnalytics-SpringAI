@@ -22,4 +22,4 @@ Pontos chaves desse projeto:
     Spring WebFlux
     Spring AI
     Java 17+
-    Banco de dados em memória
+    Banco de dados em memória (para simplicidade no desenvolvimento)
